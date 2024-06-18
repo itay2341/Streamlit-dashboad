@@ -1,0 +1,24 @@
+{
+    "id": "feeddesk1",
+    "feeds":[
+        
+        {"name": "Adv3", "url_format":"https://www.searchresults.pro/click?campaign_id=1179&pub_id=399&p1=%s"}, 
+        {"name": "Adv3", "url_format":"https://www.searchresults.pro/click?campaign_id=1179&pub_id=399&p1=%s"},   
+        {"name": "Adv3", "url_format":"https://www.searchresults.pro/click?campaign_id=1179&pub_id=399&p1=%s"},                        
+        {"name": "Adv4", "url_format":"https://www.searchresults.pro/click?campaign_id=1037&pub_id=399&p1=%s"},
+        {"name": "Adv4", "url_format":"https://www.searchresults.pro/click?campaign_id=1037&pub_id=399&p1=%s"},
+        {"name": "Adv4", "url_format":"https://www.searchresults.pro/click?campaign_id=1037&pub_id=399&p1=%s"},        
+        {"name": "AE2", "url_format":"https://srch.adsearchexperts.com/f?cid=8639&q=%s"},     
+        {"name": "AE2", "url_format":"https://srch.adsearchexperts.com/f?cid=8639&q=%s"},     
+        {"name": "AE2", "url_format":"https://srch.adsearchexperts.com/f?cid=8639&q=%s"},     
+        {"name": "AE2", "url_format":"https://srch.adsearchexperts.com/f?cid=8639&q=%s"},     
+        {"name": "AE3", "url_format":"https://srch.adsearchexperts.com/f?cid=8690&q=%s"},     
+        {"name": "AE3", "url_format":"https://srch.adsearchexperts.com/f?cid=8690&q=%s"},
+        {"name": "AE3", "url_format":"https://srch.adsearchexperts.com/f?cid=8690&q=%s"},
+        {"name": "AE4", "url_format":"https://srch.adsearchexperts.com/f?cid=8804&q=%s"},     
+        {"name": "AE4", "url_format":"https://srch.adsearchexperts.com/f?cid=8804&q=%s"},     
+        {"name": "Ric4", "url_format":"https://take2search.com/t/vxt7dimEoz9w8EHy4Th7Hm?sub1=%s&sub2=111177"},
+        {"name": "Ric8", "url_format":"https://mfbhs151.fastsearch.me/?q=%s"}
+
+    ]
+}

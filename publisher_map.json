@@ -1,0 +1,61 @@
+[
+    {
+        "name": "vova",
+        "uuid" : "3c5d0520-e1b3-43ba-9030-5efeda52ccf5",
+        "links": [
+            "feeddesk1"
+        ]
+    }, {
+        "name": "Dol",
+        "uuid" : "d93aded0-2593-4b86-a48d-0e5602e50731",
+        "links": [
+            "feeddesk3"
+        ]
+    }, {
+        "name": "AG",
+        "uuid" : "7258e0d8-9928-4327-b5cb-554f70a1e135",
+        "links": [
+            "feeddesk4",
+            "feeddesk41"
+        ]
+    }, {
+        "name": "Haw",
+        "uuid" : "8c2f4a5f-5a1d-4a8c-9b8e-1a1e3a7e8b5e",
+        "links": [
+            "feeddesk5"
+        ]
+    }, {
+        "name": "MM",
+        "uuid" : "f0a7d0b0-0f5c-4a2c-8a5f-6fbbf4e5b0b8",
+        "links": [
+            "feeddesk6",
+            "mob601"
+        ]
+    }, {
+        "name": "AE",
+        "uuid" : "aacb4114-2f81-4c50-bc5a-0d89041a47b8",
+        "links": [
+            "feeddesk7",
+            "feeddesk701",
+            "feeddesk702",
+            "fd703",
+            "fd704"
+        ]
+    }, {
+        "name": "UDMS",
+        "uuid" : "8792399b-4b85-4ce6-9426-57a43d84f635",
+        "links": [
+            "feeddesk8a",
+            "feeddesk8b"
+        ]
+    }, {
+        "name": "Ric",
+        "uuid" : "eacfc732-6ce4-4598-a71f-26db353006e3",
+        "links": [
+            "feeddesk9",
+            "fd901",
+            "fd902"
+        ]
+    }
+]
+

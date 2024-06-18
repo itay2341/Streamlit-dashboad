@@ -1,0 +1,6 @@
+{
+    "id": "feeddesk3",
+    "feeds":[
+        {"name": "Ric6", "url_format":"https://5f72d03.mysearch.space?q=%s"}
+    ]
+}

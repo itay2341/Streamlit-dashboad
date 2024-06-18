@@ -1,0 +1,25 @@
+image: python:3.9
+
+stages:
+  # - test
+  - deploy
+
+# test:
+#   stage: test
+#   script:
+#     - pip install -r requirements_dev.txt
+#     - python -m pytest
+
+deploy:
+  image: google/cloud-sdk:alpine
+  stage: deploy
+  when: manual
+  script:
+    - echo "Deploying to app engine"
+    - echo $SERVICE_ACCOUNT_PRD > /tmp/$CI_PIPELINE_ID.json
+    - gcloud auth activate-service-account --key-file=/tmp/$CI_PIPELINE_ID.json
+    - gcloud app deploy app.yaml
+# deploy cloud function
+    - echo "Deploying to cloud function"
+    - gcloud auth activate-service-account --key-file=/tmp/$CI_PIPELINE_ID.json
+    - gcloud functions deploy report-json-api --runtime python39 --trigger-http --allow-unauthenticated --region us-central1 

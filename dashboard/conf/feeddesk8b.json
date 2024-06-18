@@ -1,0 +1,10 @@
+{
+    "id": "feeddesk8b",
+    "feeds":[
+        {"name": "Ric3", "url_format":"https://677f1c8.mysearch.space?q=%s"},
+        {"name": "Adv8", "url_format":"https://www.searchresults.pro/click?campaign_id=1424&pub_id=399&p1=%s"},
+        {"name": "Adv10", "url_format":"https://www.searchresults.pro/click?campaign_id=1509&pub_id=399&p1=%s"},
+        {"name": "Ric9", "url_format":"https://click.routway.com/n7w66wab/59f57e65d415d6c2/?p3=%s&p2=1530"},
+        {"name": "Ric9", "url_format":"https://click.routway.com/n7w66wab/59f57e65d415d6c2/?p3=%s&p2=1530"}
+    ]
+}
